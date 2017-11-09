@@ -1,0 +1,6 @@
+#include <stdio.h>
+#include"op.h"
+int main(){		
+	fncuadro();
+	return 0;
+}
